@@ -8,14 +8,11 @@
 
 This repository contains hands-on C++ projects completed during the **CodSoft Internship Program**. Each project demonstrates practical implementation of core programming concepts including OOP principles, data structures, error handling, and user interface design.
 
-**Status**: 🟢 **Project 1 Complete** | 🟡 **Project 2 & 3 In Progress**
-
 ---
 
 ## 📚 Projects Overview
 
 ### Project 1: 🧮 **Simple Calculator with OOP**
-**Status**: ✅ Complete | **Difficulty**: Beginner-Intermediate
 
 #### Description
 A fully functional command-line calculator built using Object-Oriented Programming principles in C++. The calculator supports basic arithmetic operations with continuous use capability and robust error handling.
@@ -82,16 +79,6 @@ result=15
 
 ---
 
-### Project 2: 🎮 **[Coming Soon]**
-**Status**: 🔄 In Progress | **Difficulty**: Intermediate
-
----
-
-### Project 3: 🎯 **[Coming Soon]**
-**Status**: 🔄 In Progress | **Difficulty**: Intermediate-Advanced
-
----
-
 ## 🛠️ Technical Stack
 
 | Technology | Purpose |
@@ -121,7 +108,6 @@ Through these projects, I've developed proficiency in:
 | Metric | Value |
 |--------|-------|
 | **Language** | C++ (100%) |
-| **Projects Completed** | 1/3 |
 | **Total Lines of Code** | 70+ |
 | **OOP Classes** | 1+ |
 | **Error Handling Cases** | 2+ |
@@ -132,11 +118,9 @@ Through these projects, I've developed proficiency in:
 
 ```
 codsoft/
-├── README.md                 # This file
-├── calculator.cpp            # Project 1: Calculator source code
-├── calculator proof.mp4       # Project 1: Demo video
-├── [project2]/              # Project 2 (coming soon)
-└── [project3]/              # Project 3 (coming soon)
+├── README.md                 # Project documentation
+├── calculator.cpp            # Calculator source code
+└── calculator proof.mp4       # Demo video
 ```
 
 ---
@@ -146,7 +130,7 @@ codsoft/
 **Program**: CodSoft Virtual Internship  
 **Domain**: C++ Programming  
 **Duration**: 4 Weeks  
-**Certificates**: Expected upon completion of all 3 projects  
+**Certificates**: Upon completion of all projects  
 
 ---
 
@@ -160,12 +144,12 @@ codsoft/
 
 2. **Compile any project**
    ```bash
-   g++ -o [project_name] [project_name].cpp
+   g++ -o calculator calculator.cpp
    ```
 
 3. **Run the executable**
    ```bash
-   ./[project_name]
+   ./calculator
    ```
 
 4. **Watch demo videos** for project output examples
@@ -190,7 +174,7 @@ Feel free to use this code for learning purposes.
 
 ## 🤝 Contributing
 
-This is an internship portfolio repository. However, suggestions for code improvements are welcome!
+Suggestions for code improvements are welcome!
 
 ---
 
@@ -200,6 +184,4 @@ Feel free to **star** this repository! It helps others discover quality learning
 
 ---
 
-**Last Updated**: May 12, 2026  
-**Status**: 🟡 In Progress (1/3 Projects Complete)
-
+**Last Updated**: May 12, 2026
